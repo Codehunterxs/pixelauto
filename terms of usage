@@ -1,0 +1,43 @@
+
+//
+// ───────────────────────────────────────────────────────────────────────────
+// CODE USAGE & RESTRICTIONS
+// ───────────────────────────────────────────────────────────────────────────
+// • This project is NOT open-source.
+// • Please DO NOT attempt to decrypt, deobfuscate, reverse-engineer,
+//   or otherwise tamper with the internal logic of this code.
+// • Do NOT remove, modify, or replace author names, credits, identifiers,
+//   or branding included in this project.
+//
+// We are already providing everything required for proper usage as a sign
+// of respect toward the community. In return, we expect the same respect
+// for the time, effort, and hard work invested in building this extension.
+//
+// Modifying credits or attempting to claim ownership will not provide
+// any technical or functional benefit and is strongly discouraged.
+//
+
+
+This extension is provided completely free of charge and is intended strictly for educational, experimental, and learning purposes only. The primary goal of this project is to help developers and learners understand modern browser extension behavior, Content Security Policy (CSP) restrictions, client-side logic handling, UI flow design, and controlled interaction with third-party services in a safe and educational manner.
+
+This project is NOT open-source. While the extension is free to use, redistribute in compiled form, and learn from as a user, the internal implementation, logic structure, and design decisions are protected. Please do not attempt to decrypt, deobfuscate, reverse-engineer, or otherwise analyze the internal code with the intent of copying, redistributing, or claiming ownership over any part of it.
+
+We respectfully ask users to understand that a significant amount of time, effort, testing, and refinement went into building this project. Everything required for correct and proper usage has already been provided. As a matter of respect for this work, users are requested to keep all names, identifiers, credits, branding, and references intact. Modifying, removing, or replacing credits does not provide any technical advantage and only disrespects the effort behind the project.
+
+This extension has been created for educational CSP learning purposes only. Users must always use their own personal data, credentials, and test information. Any attempt to use third-party details, stolen information, leaked credentials, or unauthorized data is strictly against the intended purpose of this project.
+
+The extension may interact with third-party services, including Stripe or Stripe-related flows. All users are required to fully comply with Stripe’s official Terms of Service, policies, usage guidelines, and all applicable local and international laws. This project does not encourage, support, or endorse any behavior that violates Stripe’s rules or any other service provider’s terms.
+
+Any misuse, abuse, violation of service terms, account suspension, financial loss, legal consequences, or damages resulting from the use of this extension are entirely the responsibility of the end user. The creators, maintainers, contributors, and associated parties take no responsibility or liability for how this software is used. By using this extension, you acknowledge that you are solely accountable for your actions.
+
+If any harm, loss, or damage occurs as a result of using this product — whether intentional or unintentional — it will not be considered the fault of the creators or maintainers. Responsibility lies fully and exclusively with the user.
+
+Parts of the logic were originally inspired by Usagi and were later modified, improved, and adapted. The newer design, updated APIs, structural improvements, UI/UX decisions, and core functionality fall under the ownership and development of Cunez, Pixel, and Core. Proper attribution has been included and must remain unchanged.
+
+This project exists to educate, not to exploit. It is meant to help developers learn how CSP works, how modern extensions must adapt to security restrictions, and how clean UI and logic separation should be implemented responsibly. Any use outside this scope goes against the intent of the project.
+
+If you do not agree with these terms, conditions, and expectations, you should not use this extension.
+
+Respect the work. Respect the rules. Respect the ecosystem.
+
+Thank you for understanding and supporting responsible development.
