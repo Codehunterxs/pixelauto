@@ -1,5 +1,7 @@
 # Pixelauto
 
+# [Pixelauto](https://hitter.bypixel.site/)
+
 **Pixelauto** is an educational-purpose browser extension built for learning, testing, and understanding Stripe gateway automation, CSP behavior, and AI-assisted automation workflows.
 
 This extension is designed to help users explore how purchase flows can be made easier and more organized when working with Stripe-based checkout systems.
