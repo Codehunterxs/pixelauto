@@ -70,3 +70,5 @@ Pixelauto is made only for educational, security-testing, and learning purposes.
 The developer does not support or encourage illegal activity, fraud, unauthorized automation, platform abuse, or harmful behavior.
 
 Use responsibly.
+
+We do not provide any perosnal informations
